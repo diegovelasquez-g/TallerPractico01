@@ -49,7 +49,7 @@ class Ejercicio1 : AppCompatActivity() {
                 if(ans>=6){
                     res = "Aprobado"
                 }
-                result.setText("El promedio del alumno "+student+"es: "+ansRound.toString())
+                result.setText("El promedio del alumno "+student+" es: "+ansRound.toString())
                 Toast.makeText(this,res,Toast.LENGTH_LONG).show()
 
             }
