@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">Taller Practico 01 - VG190501</string>
+    <string name="app_name">Taller Practico 01</string>
+    <string name="enunciado">Primer Taller Practico - Integrantes</string>
+    <string name="integrante_1">Diego Velásquez - VG190501</string>
+    <string name="integrante_2">Irma Hernández - HM190181</string>
+    <string name="primerNumero">Ingrese el primer número</string>
+    <string name="segundoNumero">Ingrese el segundo número</string>
+    <string name="enunciado2">Seleccione un operador</string>
+    <string name="primerOperador">Sumar</string>
+    <string name="segundoOperador">Restar</string>
+    <string name="tercerOperador">Multiplicar</string>
+    <string name="cuartoOperador">Dividir</string>
+    <string name="btnEnviar">Calcular</string>
+    <string name="resultado">Resultado</string>
 </resources>
